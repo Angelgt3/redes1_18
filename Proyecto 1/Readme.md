@@ -23,13 +23,20 @@
 
 ## Implementación de las topologías
 
-**Oficina A**
+**Oficina A**     
+
 ![OficinaA](imagenes/OficinaA.jpg)
-**Area Central**
+
+**Area Central**        
+
 ![Central](imagenes/Central.jpg)
-**Area Administrativa**
+
+**Area Administrativa**  
+
 ![Administrativa](imagenes/Administrativa.jpg)
-**Topologia**
+
+**Topologia**           
+
 ![Topologia](imagenes/Topologia.jpg)
 
 
